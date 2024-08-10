@@ -203,7 +203,7 @@ a {
 }
 
 .dashboard::before {
-  content: url("/img/view-dashboard.svg");
+  content: url("img/view-dashboard.svg");
   position: absolute;
   left: -60px;
   top: -2px;
